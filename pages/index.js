@@ -4,12 +4,12 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Creating a Website with Craft and Netlify</title>
+        <title>Projects</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <body>
-        <iframe src="https://www.craft.do/s/NIXWQEoYecjzBt"
+        <iframe src="https://www.craft.do/s/tWnG9Pqfx89MWe"
             frameborder="0"
             marginheight="0"
             marginwidth="0"
